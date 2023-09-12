@@ -6,6 +6,10 @@ Aplikacja webowa statyczna. Cel: wyświetlanie listy pomieszczeń wraz z numeram
 
 ![screenshot](assets/screenshot.png)
 
+# Demo
+
+https://static.starysacz.um.gov.pl/tablica-parter
+
 # Instalacja
 
 Strona staryczna oparta o TailwindCSS. Instalacja jak przy każdym tego typu projekcie.
